@@ -5,7 +5,7 @@
 import mongoose from 'mongoose';
 
 const MONGO_URI  = process.env.MONGO_URI;
-const BOT_TOKEN  = process.env.BOT_TOKEN;
+const BOT_TOKEN  = 8613460727:AAEorE5uRswjDPKgfvk8yADDm3dDkUMHuNg;
 const APP_URL    = process.env.APP_URL || '';
 const ADMIN_PASS_ENV = process.env.ADMIN_PASS || 'admin123';
 
